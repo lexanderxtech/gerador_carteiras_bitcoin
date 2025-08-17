@@ -1,0 +1,20 @@
+{
+  "name": "gerador_carteiras_bitcoin",
+  "version": "1.0.0",
+  "description": "Gerador de carteiras de bitcoin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexanderxtech/gerador_carteiras_bitcoin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexanderxtech/gerador_carteiras_bitcoin/issues"
+  },
+  "homepage": "https://github.com/lexanderxtech/gerador_carteiras_bitcoin#readme"
+}
