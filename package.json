@@ -2,9 +2,11 @@
   "name": "gerador_carteiras_bitcoin",
   "version": "1.0.0",
   "description": "Gerador de carteiras de bitcoin.",
-  "main": "index.js",
+  "main": "createWallet.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node createWallet.js"
   },
   "repository": {
     "type": "git",
